@@ -2,6 +2,7 @@ package com.bombardierline3.android.controller;
 
 import android.os.Handler;
 import android.os.Looper;
+import android.graphics.Color;
 
 import java.util.Collections;
 import java.util.Arrays;
