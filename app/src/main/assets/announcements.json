@@ -1,0 +1,38 @@
+{
+  "closingDoor": {
+    "hindi": "दरवाजों से हट कर खड़े हों।",
+    "english": "Stand away from the doors."
+  },
+  "nextStation": {
+    "hindiPrefix": "अगला",
+    "hindiStnStr": "स्टेशन",
+    "hindiSuffix": "है।",
+    "englishPrefix": "Next station is",
+    "englishSuffix": "."
+  },
+  "thisStation": {
+    "hindiPrefix": "यह",
+    "hindiStnStr": "स्टेशन",
+    "hindiSuffix": "।",
+    "englishPrefix": "This",
+    "englishStnStr": "Station",
+    "englishSuffix": "."
+  },
+  "doorOpening": {
+    "hindi": "दरवाजे {sideHi} तरफ खुलेंगे।",
+    "english": "Doors will open on the {sideEn}."
+  },
+  "gapWarning": {
+    "hindi": "प्लेटफॉर्म और ट्रेन के बीच की दूरी का ध्यान रखें।",
+    //"english": "Please mind the gap between the platform and the train." 
+    "english": "PLEASE MIND THE GAP BETWEEN THE PLATFORM AND THE TRAIN."
+  },
+  "termination": {
+    "hindi": "यह गाड़ी {destinationStationHi} तक जाएगी। यदि आपको {destinationStationHi} से आगे जाना है, तो कृपया {lastSecondStationHi} पर उतरें और {endStationHi} तक जाने वाली गाड़ी की प्रतीक्षा करें। ",
+    "english": "This train terminates at {destinationStationEn}. If you required to travel beyond {destinationStationEn}, Please deboard at {lastSecondStationEn} and board the next train for {endStationEn}. "
+  },
+  "terminateStation": {
+    "hindi": "{stationHi}। यह गाडी आगे नहीं जायेगी। दिल्ली मेट्रो में यात्रा करने के लिए धन्यवाद। कृपया अपना सामान लेजाना न भूले।",
+    "english": "{stationEn}. This train terminates here. Thank You for travelling with Delhi Metro. Please remember to take all your belongings with you!"
+  }
+}

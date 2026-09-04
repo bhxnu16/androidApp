@@ -1,0 +1,98 @@
+[
+  {
+    "nameEn": "Yamuna Bank",
+    "nameHi": "यमुना बैंक",
+    "shortNameEn": "",
+    "shortNameHi": "",
+    "doorSideEn": "left",
+    "doorSideHi": "बाईं",
+    "interchangeEn": "Passengers going towards Noida Electronic City, Change Here.",
+    "interchangeHi": "नोएडा इलेक्ट्रॉनिक सिटी की ओर जान के लिए यात्रि, यहाँ बदलें।",
+    "socialIndexForward": 5,
+    "socialIndexBackward": 20
+  },
+  {
+    "nameEn": "Laxmi Nagar",
+    "nameHi": "लक्ष्मी नगर",
+    "shortNameEn": "",
+    "shortNameHi": "",
+    "doorSideEn": "left",
+    "doorSideHi": "बाईं",
+    "interchangeEn": "",
+    "interchangeHi": "",
+    "socialIndexForward": 18,
+    "socialIndexBackward": 18
+  },
+  {
+    "nameEn": "Nirman Vihar",
+    "nameHi": "निर्माण विहार",
+    "shortNameEn": "",
+    "shortNameHi": "",
+    "doorSideEn": "left",
+    "doorSideHi": "बाईं",
+    "interchangeEn": "",
+    "interchangeHi": "",
+    "socialIndexForward": 10,
+    "socialIndexBackward": 1
+  },
+  {
+    "nameEn": "Preet Vihar",
+    "nameHi": "प्रीत विहार",
+    "shortNameEn": "",
+    "shortNameHi": "",
+    "doorSideEn": "left",
+    "doorSideHi": "बाईं",
+    "interchangeEn": "",
+    "interchangeHi": "",
+    "socialIndexForward": 14,
+    "socialIndexBackward": 10
+  },
+  {
+    "nameEn": "Karkarduma",
+    "nameHi": "कड़कड़डूमा",
+    "shortNameEn": "",
+    "shortNameHi": "",
+    "doorSideEn": "left",
+    "doorSideHi": "बाईं",
+    "interchangeEn": "Please Change here for Pink Line and Devi Bus Service .",
+    "interchangeHi": "कृपया यहाँ पिंक लाइन और देवी बस सेवा के लिए बदलें।",
+    "socialIndexForward": 17,
+    "socialIndexBackward": 17
+  },
+  {
+    "nameEn": "Anand Vihar ISBT",
+    "nameHi": "आनंद विहार आईएसबीटी",
+    "shortNameEn": "Anand Vihar",
+    "shortNameHi": "आनंद विहार",
+    "doorSideEn": "left",
+    "doorSideHi": "बाईं",
+    "interchangeEn": "Please Change here for Pink Line of Delhi Metro, Anand Vihar Railway Station, ISBT, Namo Bharat Anand Vihar Station, and Devi Bus Service.",
+    "interchangeHi": "कृपया यहाँ दिल्ली मेट्रो की पिंक लाइन, आनंद विहार रेलवे स्टेशन, आईएसबीटी, नमो भारत आनंद विहार स्टेशन और देवी बस सेवा के लिए बदले।",
+    "socialIndexForward": 5,
+    "socialIndexBackward": 5
+  },
+  {
+    "nameEn": "Kaushambi",
+    "nameHi": "कौशाम्बी",
+    "shortNameEn": "",
+    "shortNameHi": "",
+    "doorSideEn": "left",
+    "doorSideHi": "बाईं",
+    "interchangeEn": "",
+    "interchangeHi": "",
+    "socialIndexForward": 19,
+    "socialIndexBackward": 19
+  },
+  {
+    "nameEn": "Vaishali",
+    "nameHi": "वैशाली",
+    "shortNameEn": "",
+    "shortNameHi": "",
+    "doorSideEn": "right",
+    "doorSideHi": "दाईं",
+    "interchangeEn": "",
+    "interchangeHi": "",
+    "socialIndexForward": 1,
+    "socialIndexBackward": -1
+  }
+]
