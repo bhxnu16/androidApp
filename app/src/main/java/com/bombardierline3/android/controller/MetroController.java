@@ -47,17 +47,6 @@ public class MetroController {
         private String cachedFileEndHi = "";
         private String cachedFileEndEn = "";
 
-        public MetroController(LedDisplayView ledWindow) {
-                this.ledWindow = ledWindow;
-                this.socialPool = JsonLoader.loadSocialPool("social_pool.json");
-                this.stationsList = new ArrayList<>(RouteGraph.getInstance().getAllUniqueStations());
-                if (!this.stationsList.isEmpty()) {
-                        this.cachedFileEndHi = this.stationsList.get(this.stationsList.size() - 1).nameHi;
-                        this.cachedFileEndEn = this.stationsList.get(this.stationsList.size() - 1).nameEn;
-                }
-                this.announcements = JsonLoader.loadAnnouncements("announcements.json");
-        }
-
         public MetroController(LedDisplayView ledWindow, String sourceEn, String destHi, String destEn, Station[] fullStationsArray, boolean terminateWithoutReverse, String[][] socialPool, Map<String, Map<String, String>> announcements) {
                 this.ledWindow = ledWindow;
                 this.targetDestHi = (destHi != null) ? destHi : "";

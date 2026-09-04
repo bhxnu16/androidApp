@@ -31,6 +31,10 @@ public class RouteGraph {
         return instance;
     }
 
+    public static RouteGraph getInstance() {
+        return instance;
+    }
+
     private Map<String, Station> stationMap = new HashMap<>();
     private Map<String, Set<String>> adjList = new HashMap<>();
     private List<Station> allUniqueStations = new ArrayList<>();
